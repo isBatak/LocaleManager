@@ -1,5 +1,4 @@
 # LocaleManager AS3 (AIR Only)
-============================
 
 ## What is it? ##
 The LocaleManager provides dyinamic localization support for ActionScript AIR only apps. It takes care of loading/parsing resource bundle files (*.txt) and returns localized resources based on the locales provided from the external JSON file.
