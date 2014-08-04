@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LocaleManager</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] ROBOTLEGS_FRAMEWORK-src</name>
+			<type>2</type>
+			<locationURI>ROBOTLEGS_FRAMEWORK/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] ROBOTLEGS_SIGNALCOMANDMAP-src</name>
+			<type>2</type>
+			<locationURI>ROBOTLEGS_SIGNALCOMANDMAP/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] ROBOTLEGS_STARLING-src</name>
+			<type>2</type>
+			<locationURI>ROBOTLEGS_STARLING/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] SIGNALS-src</name>
+			<type>2</type>
+			<locationURI>SIGNALS/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] SWIFTSUSPENDERS-src</name>
+			<type>2</type>
+			<locationURI>SWIFTSUSPENDERS/src</locationURI>
+		</link>
+		<link>
+			<name>[source path] source</name>
+			<type>2</type>
+			<locationURI>FEATHERS_FRAMEWORK/source</locationURI>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<locationURI>STARLING_FRAMEWORK/starling/src</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,6 @@
+# Views
+CONTENT_VIEW = Content View
+HOME_VIEW = Home
+MAIN_MENU_VIEW = Main Menu
+GO_TO_MAIN_MENU = Go to Main Menu
+GO_TO_HOME = Go to Home

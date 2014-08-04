@@ -1,0 +1,6 @@
+# Views
+CONTENT_VIEW = Glavni Sadržaj
+HOME_VIEW = Početna
+MAIN_MENU_VIEW = Glavni Izbornik
+GO_TO_MAIN_MENU = Povratak na Glavni Izbornik
+GO_TO_HOME = Povratak na Početni Izbornik

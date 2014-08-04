@@ -1,0 +1,14 @@
+[
+    {
+        "label": "HR",
+        "locale": "hr_HR"
+    },
+    {
+        "label": "EN",
+        "locale": "en_US"
+    },
+    {
+        "label": "NaL",
+        "locale": "not_a_lang"
+    }
+]
