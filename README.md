@@ -5,6 +5,8 @@ The LocaleManager provides dyinamic localization support for ActionScript AIR on
 
 Because it is using FileStream, it currently supports only AIR apps. 
 
+![Example](https://raw.githubusercontent.com/isBatak/LocaleManager/master/example.gif)
+
 ## Resource files
 
 The bundle files are stored in `app://locale/[xx_XX]/[xx_XX].txt`  (ie.: `app://locale/en_US/en_US.txt`). Make sure the directory "locale" is copied to your build package:
