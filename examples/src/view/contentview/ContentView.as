@@ -49,10 +49,11 @@ package view.contentview
 			super.initialize();
 
 			setLoader();
-			
+			loaderOutput("1. test test");
 			/* To be sure that loader is created because error can 
 			occur before feathers initialize method is called */
 			loaderInitalizedSignal.dispatch();
+			loaderOutput("2. test test");
 		}
 		
 		/**
@@ -103,7 +104,7 @@ package view.contentview
 		/** Output message under the loader */
 		public function loaderOutput(message:String):void
 		{
-			this._loaderLabel.text = message + "\n\n";
+			this._loaderLabel.text += message + "\n\n";
 		}
 		
 		/**
