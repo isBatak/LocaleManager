@@ -21,6 +21,7 @@ The content format for bundle files is `KEY = Value` followed by a line break. _
 
 
 ## How to use it? ##
+Coming soon... (https://github.com/isBatak/LocaleManager/blob/master/examples/src/service/LanguageService.as)
 
 ## To Do ##
 - [ ] Create/Make Tests
